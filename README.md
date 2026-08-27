@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Himani Garg <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"/></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=6%2B+years+building+scalable+web+apps;React+%7C+Next.js+%7C+GraphQL+%7C+Python;Remote+%7C+India+%7C+South+Korea;Currently+shipping+at+MotivatePT+(London)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=8%2B+years+building+scalable+web+apps;React+%7C+Next.js+%7C+GraphQL+%7C+Python;Remote+%7C+India+%7C+South+Korea;Currently+shipping+at+MotivatePT+(London)" alt="Typing SVG" />
 </p>
 
 <p align="center">
