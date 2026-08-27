@@ -23,7 +23,7 @@ I'm a full-stack engineer who enjoys owning products end-to-end — from a clien
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html5,css,sass,tailwind,graphql,nodejs,python,mysql,aws,docker,git,vercel, netlify,javascript, jinja2" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html5,css,sass,tailwind,graphql,nodejs,python,mysql,aws,docker,git,vercel, netlify,javascript,jinja2" />
 </p>
 
 ### 📌 Featured Projects
