@@ -7,7 +7,6 @@
 <p align="center">
   <a href="mailto:garg.himani@outlook.com"><img src="https://img.shields.io/badge/-garg.himani@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/garghimani"><img src="https://img.shields.io/badge/-garghimani-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/garghimani"><img src="https://img.shields.io/badge/-garghimani-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 I'm a full-stack engineer who enjoys owning products end-to-end — from a client-facing UI down to the payment infra behind it. Currently building portals and billing systems for a London-based startup, fully remote, from Seoul.
@@ -23,7 +22,7 @@ I'm a full-stack engineer who enjoys owning products end-to-end — from a clien
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html5,css,sass,tailwind,graphql,nodejs,python,mysql,aws,docker,git,vercel, netlify,javascript,jinja2" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html5,css,sass,tailwind,graphql,nodejs,python,mysql,aws,docker,git,vercel,netlify,javascript,jinja2" />
 </p>
 
 ### 📌 Featured Projects
